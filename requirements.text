@@ -14,4 +14,4 @@ sklearn==0.0
 threadpoolctl==3.1.0
 Werkzeug==2.2.1
 zipp==3.8.1
-python==3.9.13
+Python==3.9.13
